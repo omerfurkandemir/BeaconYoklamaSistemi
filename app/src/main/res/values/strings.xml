@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Online Yoklama</string>
+
+
+    <string-array name="dersler_array">
+
+        <item>HATA DÜZELTEN KODLARA GİRİŞ</item>
+        <item>MOBİL UYGULAMA GELİŞTİRME 1</item>
+        <item>BİLGİSAYAR GRAFİKLERİ</item>
+        <item>KRİPTOLOJİYE GİRİŞ</item>
+        <item>FORMEL DİLLER VE SOYUT MAKİNELER</item>
+
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_file">com.furkandemir.preference_file</string>
+    <string name="pref_login_status">com.furkandemir.preference_login_status</string>
+    <string name="pref_user_name">com.furkandemir.preference_user_name</string>
+</resources>
